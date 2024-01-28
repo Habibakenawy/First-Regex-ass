@@ -1,0 +1,36 @@
+body{
+    background-color: lightpink;
+}
+
+table{
+    border-spacing: 20px;
+    border-style: outset;
+    border-color:darkred ;
+    border-width:  thick;
+    border-left-color: pink;
+    border-top-color: pink;
+}
+
+th, td{ 
+    
+border-style: solid;
+border-color: brown;
+}
+input{
+    width: inherit;
+}
+
+
+#interest{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+}
+#submit{
+    text-align: center;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    }
